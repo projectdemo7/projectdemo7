@@ -1,5 +1,4 @@
-# bdportal (or -৭ - pronounced "shaat.") 
-## bdportal (অথবা -৭)
+# -৭ - pronounced "shaat.") 
 
-Just a random project called -৭. 
+
 
